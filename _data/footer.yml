@@ -1,24 +1,24 @@
 - links:
   - name: Home
-    link: /
+    link: https://www.mtnfog.com/
   - name: Blog
-    link: /blog/
-  - name: About
-    link: /about/
+    link: https://www.mtnfog.com/blog/
+  - name: Request a Demo
+    link: https://www.mtnfog.com/request-a-demo/
 - links:
   - name: Philter
-    link: /philter/
+    link: https://www.mtnfog.com/products/philter/
   - name: Phirestream
-    link: /phirestream/
+    link: https://www.mtnfog.com/products/phirestream/
   - name: Support
-    link: /support/
+    link: https://www.mtnfog.com/support/
 - links:
   - name: Twitter
     link: https://twitter.com/mtnfog/
     social_icon: Twitter
     new_window: true
   - name: LinkedIn
-    link: https://www.linkedin.com/company/mountain-fog
+    link: https://www.linkedin.com/company/mtnfog
     new_window: true
     social_icon: LinkedIn
   - name: GitHub
