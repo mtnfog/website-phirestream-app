@@ -1,20 +1,16 @@
 - name: Philter
-  link: /philter/
+  link: https://www.mtnfog.com/products/philter/
   new_window: false
   highlight: false
 - name: Phirestream
-  link: /phirestream/
+  link: https://www.mtnfog.com/products/phirestream/
   new_window: false
   highlight: false
 - name: Blog
-  link: /blog/
+  link: https://www.mtnfog.com/blog/
   new_window: false
   highlight: false
 - name: Support
-  link: /support/
-  new_window: false
-  highlight: false
-- name: About
-  link: /about/
+  link: https://www.mtnfog.com/support/
   new_window: false
   highlight: false
